@@ -1,0 +1,14 @@
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\obj\Debug\net8.0\PrincipioAbiertoCerradoOCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\obj\Debug\net8.0\PrincipioAbiertoCerradoOCP.AssemblyInfoInputs.cache
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\obj\Debug\net8.0\PrincipioAbiertoCerradoOCP.AssemblyInfo.cs
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\obj\Debug\net8.0\PrincipioAbiertoCerradoOCP.csproj.CoreCompileInputs.cache
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\bin\Debug\net8.0\PrincipioAbiertoCerradoOCP.exe
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\bin\Debug\net8.0\PrincipioAbiertoCerradoOCP.deps.json
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\bin\Debug\net8.0\PrincipioAbiertoCerradoOCP.runtimeconfig.json
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\bin\Debug\net8.0\PrincipioAbiertoCerradoOCP.dll
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\bin\Debug\net8.0\PrincipioAbiertoCerradoOCP.pdb
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\obj\Debug\net8.0\PrincipioAbiertoCerradoOCP.dll
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\obj\Debug\net8.0\refint\PrincipioAbiertoCerradoOCP.dll
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\obj\Debug\net8.0\PrincipioAbiertoCerradoOCP.pdb
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\obj\Debug\net8.0\PrincipioAbiertoCerradoOCP.genruntimeconfig.cache
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\PrincipioAbiertoCerradoOCP\obj\Debug\net8.0\ref\PrincipioAbiertoCerradoOCP.dll

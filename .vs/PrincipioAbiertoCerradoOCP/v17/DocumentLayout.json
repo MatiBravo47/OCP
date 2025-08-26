@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|c:\\users\\matt_\\onedrive\\desktop\\nueva carpeta (2)\\principioabiertocerradoocp\\antesderefactorizar\\mainclassantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|solutionrelative:antesderefactorizar\\mainclassantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|c:\\users\\matt_\\onedrive\\desktop\\nueva carpeta (2)\\principioabiertocerradoocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|c:\\users\\matt_\\onedrive\\desktop\\nueva carpeta (2)\\principioabiertocerradoocp\\services\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|solutionrelative:services\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|c:\\users\\matt_\\onedrive\\desktop\\nueva carpeta (2)\\principioabiertocerradoocp\\interfaces\\ipricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|solutionrelative:interfaces\\ipricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|c:\\users\\matt_\\onedrive\\desktop\\nueva carpeta (2)\\principioabiertocerradoocp\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|solutionrelative:models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|c:\\users\\matt_\\onedrive\\desktop\\nueva carpeta (2)\\principioabiertocerradoocp\\pricingrules\\clearancepricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|solutionrelative:pricingrules\\clearancepricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|c:\\users\\matt_\\onedrive\\desktop\\nueva carpeta (2)\\principioabiertocerradoocp\\pricingrules\\premiumpricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|solutionrelative:pricingrules\\premiumpricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|c:\\users\\matt_\\onedrive\\desktop\\nueva carpeta (2)\\principioabiertocerradoocp\\pricingrules\\standardpricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|solutionrelative:pricingrules\\standardpricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|c:\\users\\matt_\\onedrive\\desktop\\nueva carpeta (2)\\principioabiertocerradoocp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDEEA22-E086-4BED-A45F-7F4ABE895A5F}|PrincipioAbiertoCerradoOCP.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "Models\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\Models\\ProductType.cs",
+              "RelativeToolTip": "Models\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:42:45.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:41:09.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:01:47.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\Services\\PriceCalculator.cs",
+              "RelativeDocumentMoniker": "Services\\PriceCalculator.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\Services\\PriceCalculator.cs",
+              "RelativeToolTip": "Services\\PriceCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:43:15.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PremiumPricingRule.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\PricingRules\\PremiumPricingRule.cs",
+              "RelativeDocumentMoniker": "PricingRules\\PremiumPricingRule.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\PricingRules\\PremiumPricingRule.cs",
+              "RelativeToolTip": "PricingRules\\PremiumPricingRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:42:58.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClearancePricingRule.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\PricingRules\\ClearancePricingRule.cs",
+              "RelativeDocumentMoniker": "PricingRules\\ClearancePricingRule.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\PricingRules\\ClearancePricingRule.cs",
+              "RelativeToolTip": "PricingRules\\ClearancePricingRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:46:26.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainClassAntes.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\AntesDeRefactorizar\\MainClassAntes.cs",
+              "RelativeDocumentMoniker": "AntesDeRefactorizar\\MainClassAntes.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\AntesDeRefactorizar\\MainClassAntes.cs",
+              "RelativeToolTip": "AntesDeRefactorizar\\MainClassAntes.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAGAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:02:36.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StandardPricingRule.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\PricingRules\\StandardPricingRule.cs",
+              "RelativeDocumentMoniker": "PricingRules\\StandardPricingRule.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\PricingRules\\StandardPricingRule.cs",
+              "RelativeToolTip": "PricingRules\\StandardPricingRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:39:42.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPricingRule.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\Interfaces\\IPricingRule.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPricingRule.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Nueva carpeta (2)\\PrincipioAbiertoCerradoOCP\\Interfaces\\IPricingRule.cs",
+              "RelativeToolTip": "Interfaces\\IPricingRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:19:13.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
